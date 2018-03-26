@@ -45,7 +45,7 @@
             this.ClientSize = new System.Drawing.Size(624, 350);
             this.DoubleBuffered = true;
             this.Name = "oscilloscope";
-            this.Text = "oscilloscope";
+            this.Text = "oscilloscope-GDI+";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
