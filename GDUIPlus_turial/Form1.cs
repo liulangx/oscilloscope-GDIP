@@ -51,7 +51,6 @@ namespace GDUIPlus_turial
         }
         private void addNewPoint(float x, float y, System.Windows.Forms.PaintEventArgs e)
         {
-            int test;
             int width = this.ClientSize.Width;
             int height = this.ClientSize.Height;
             if ((height != m_height) || (width != m_width))
